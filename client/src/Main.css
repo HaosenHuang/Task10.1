@@ -1,0 +1,51 @@
+.type{
+    display: flex;
+    margin: 10px 20px 10px 20px;
+}
+.type_p{
+    font-size: 18px;
+    margin-left: 5px;
+    margin-right: 50px;
+}
+input[type="radio"]{
+    height: 20px;
+    width: 20px;
+}
+label{
+    margin-right: 100px;
+}
+span{
+    font-size: 18px;
+}
+.description, .setting{ 
+    margin: 10px 20px 10px 20px;
+}
+.title_div, .description, .suburb, .date{
+    display: flex;
+    margin-bottom: 20px;
+}
+.title, .description_div, .suburb_div, .date_div{
+    display: flex;
+    width: 120px;
+}
+.title_p, .description_p, .suburb_p, .date_p, .budget_p{
+    font-size: 18px;
+    margin-left: 5px;
+}
+input[type="text"], textarea{
+    width: 500px;
+    font-size: 18px;
+}
+.budget{
+    display: block;
+    margin: 10px 20px 10px 20px;
+}
+.budgetType{
+    display: flex;
+    margin-bottom: 20px;
+}
+input[type="text"].budgetInput{
+    width: 200px;
+    font-size: 18px;
+}
+
